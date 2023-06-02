@@ -1,0 +1,2 @@
+[test]
+client03 ansible_host=192.168.56.101 ansible_user=student ansible_ssh_private_key=/home/student/.ssh/client3
